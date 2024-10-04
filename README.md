@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @srithik2002
-- 👀 I’m interested in Data Science and Development
-- 🌱 I’m currently learning Java and Web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Srinivsa Rithik Ghantasala
+- 👀 I’m interested in Data Science and Software Development
+- 🌱 I’m currently learning Cloud and Data Management Services
+- 💞️ I’m looking to collaborate on Data related projects and software development related to Web and UI/UX design
+- 📫 How to reach me ... LinkedIn : srithik            Mail : s.ghantasala2002@gmail.com
 
 
 <!---
