@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Srinivsa Rithik Ghantasala
+- 👋 Hi, I’m Srinivasa Rithik Ghantasala
 - 👀 I’m interested in Data Science and Software Development
 - 🌱 I’m currently learning Cloud and Data Management Services
 - 💞️ I’m looking to collaborate on Data related projects and software development related to Web and UI/UX design
